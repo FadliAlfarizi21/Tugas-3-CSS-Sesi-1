@@ -1,0 +1,35 @@
+.style {
+		text-align: center;
+		color: orangered;
+		font-size: 20;
+		}
+
+.body {
+		text-align: center;
+		color: white;
+		font-size: 15px;
+		}
+
+.background {
+		background-image: url(bg tugas 3.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+		}
+
+.one {
+	border: solid;
+	font-size: 20px;
+	padding: 10px;
+	border-color: white;
+	margin-top: 30px;
+	}
+
+.two {
+	border: solid;
+	font-size: 20px;
+	padding: 10px;
+	border-color: white;
+	font-color: white;
+	margin-top: 30px;
+	}
